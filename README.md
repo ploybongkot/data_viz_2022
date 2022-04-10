@@ -8,4 +8,4 @@ Basic Programming for Data Science and Data Visualization : พลอยบง�
 * [Exam Final DataViz](https://github.com/ploybongkot/data_viz_2022/blob/main/Final_Exam.ipynb)
   * [Dashboard](https://datastudio.google.com/reporting/bcb7362e-adcf-4026-b89e-945faa15b954/page/ktCqC?fbclid=IwAR2te6ETgzD-iNVCWCyfZm6sQ93w9itT9zQG_XrpBlOHlkeQvkjO1PUxpmY)
   
-* [Mini Project DataViz]
+
